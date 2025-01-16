@@ -1,0 +1,16 @@
+sqlite3 baseball. squlite3
+if you ever get kicked out type in sqlite3 then the name of the file you are working in
+
+.schema
+.mode columns
+.headers on
+.read SQL_FILENAME
+.quit
+
+
+SELECT
+FROM
+WHERE
+AND 
+ORDER BY (DESC)
+LIMIT 
