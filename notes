@@ -14,3 +14,12 @@ WHERE
 AND 
 ORDER BY (DESC)
 LIMIT 
+
+
+SELECT product, AVG(rating)
+FROM reviews
+WHERE
+AND 
+GROUP BY 
+ORDER BY (DESC)
+LIMIT
